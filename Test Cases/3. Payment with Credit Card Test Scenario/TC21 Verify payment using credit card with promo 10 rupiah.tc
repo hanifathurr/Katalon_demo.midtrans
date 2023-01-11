@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21 Verify payment using credit card with promo 10 rupiah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8d7e8fa-aacd-4cfb-bc78-70608f2bcaa7</testCaseGuid>
+</TestCaseEntity>

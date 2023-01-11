@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 Verify leave name field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd1e9a8f-e9e5-43e0-b667-6de8e150537e</testCaseGuid>
+</TestCaseEntity>

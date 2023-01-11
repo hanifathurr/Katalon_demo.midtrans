@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 Verify user can access shopping cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>579ee3b0-e563-4895-925e-dacd7ececd6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC37 Verify payment using Indomaret</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee2d886a-2e36-4c0a-949a-fa5a5b74e572</testCaseGuid>
+</TestCaseEntity>

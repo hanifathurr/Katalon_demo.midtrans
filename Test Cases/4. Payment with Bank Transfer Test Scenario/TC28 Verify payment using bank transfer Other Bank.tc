@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28 Verify payment using bank transfer Other Bank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac50d042-920c-4d5e-addf-1afc799c282b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15 Verify payment using credit card leaving CC number empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4a7d418-483e-44b0-b78d-87eb895de8b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC40 Verify payment using Akulaku with invalid phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e518d28e-0b89-4df6-a013-f0f1f70c4c95</testCaseGuid>
+</TestCaseEntity>

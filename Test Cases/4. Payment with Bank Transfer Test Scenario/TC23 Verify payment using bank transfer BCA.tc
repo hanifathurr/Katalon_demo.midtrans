@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23 Verify payment using bank transfer BCA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d66cfd73-1793-4bb3-b8f5-2f27571ae504</testCaseGuid>
+</TestCaseEntity>

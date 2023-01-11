@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11 Verify order ID is generated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7dca7242-8536-430a-bc4a-545f5c45b1e6</testCaseGuid>
+</TestCaseEntity>

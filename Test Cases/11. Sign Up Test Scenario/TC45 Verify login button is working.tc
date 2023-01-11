@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC45 Verify login button is working</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5145693-c5cb-4261-8073-bbdd93c20405</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC36 Verify cancel button is payment page is working</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e709c1e0-24fb-4bbc-8556-f57ce827ae1f</testCaseGuid>
+</TestCaseEntity>

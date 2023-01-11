@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17 Verify payment using credit card leaving CVV empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7202b75-c7a1-4789-b37f-77f306e75a3c</testCaseGuid>
+</TestCaseEntity>

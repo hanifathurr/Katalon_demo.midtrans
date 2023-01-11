@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07 Verify leave postal code field empty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c1e9f51-4610-40ae-a55f-32689180014b</testCaseGuid>
+</TestCaseEntity>

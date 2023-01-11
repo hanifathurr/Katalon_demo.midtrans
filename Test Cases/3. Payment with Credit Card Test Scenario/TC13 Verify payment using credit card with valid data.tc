@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 Verify payment using credit card with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85d75767-9d52-4880-805b-7cfc584e473c</testCaseGuid>
+</TestCaseEntity>
